@@ -24,7 +24,7 @@ This script includes three main sections:
 3. **L1 Platform Contracts (Q3 2024)**  
    Extracts deferment and repayment data from the L1 platform, excluding outright purchase plans.
 
-Click to access the SQL Script Link: [QUARTERLY DEFERRED INCOME SQL SCRIPT FOR FINANCE DEPARTMENT]()
+Click to access the SQL Script Link: [QUARTERLY DEFERRED INCOME SQL SCRIPT FOR FINANCE DEPARTMENT](https://github.com/Oladipupo09/QUARTERLY-DEFERRED-INCOME-SQL-SCRIPT-FOR-FINANCE-DEPARTMENT/blob/main/quarterly_deferment_report_q1_q3_2024.sql)
 ---
 
 ## 🗂️ Data Sources
